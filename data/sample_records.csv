@@ -1,0 +1,6 @@
+id,category,owner,status,priority,hours,sla
+TKT-01,API failure,L2 Support,Resolved,Critical,2,4
+TKT-02,UI reporting,Product,Open,Medium,11,12
+BUG-03,Regression,Engineering,Fixed,High,7,8
+TKT-04,Data mismatch,Data,Resolved,High,6,8
+KB-05,Known issue,Knowledge,Published,Low,3,8
